@@ -1,6 +1,6 @@
-# Synthetic datasets generated using ACGAN model
+# Synthetic datasets generated using ACGAN 
 
-This repository contains synthetic datasets generated from ACGAN model which were used for data augmentation during the study experiment. 
+This repository contains synthetic datasets generated from ACGAN which were used for data augmentation during the study experiment. 
 
 download link: https://drive.google.com/file/d/19uK7L7sZcgbfJvn76KPUNqzmY35UQ8sb/view?usp=sharing
 
